@@ -154,14 +154,14 @@ também o tratamento de erros do sistema: ao introduzir "2003,4" no campo
 do ano de publicação (um valor não numérico), o sistema recusa a entrada
 e solicita novamente um número válido, sem interromper o programa:
 
-![Registo de livro com tratamento de erro](capturas/Erro1.png)
+![Registo de livro com tratamento de erro](Erro1.png)
 
 ## 4.2. Consulta do Catálogo
 
 A opção 2 lista todos os livros registados, incluindo os que acabaram de
 ser adicionados ao sistema:
 
-![Listagem do catálogo](capturas/Listar_livro.png)
+![Listagem do catálogo](Listar%20livro.png)
 
 ## 4.3. Empréstimo, Devolução e Estatísticas
 
@@ -172,7 +172,7 @@ calculadas a partir da matriz de empréstimos por mês. A captura seguinte
 demonstra ainda uma validação importante: a tentativa de devolver o
 mesmo empréstimo duas vezes é correctamente rejeitada pelo sistema:
 
-![Empréstimo, devolução e estatísticas](capturas/Emprestimo_livros_1.png)
+![Empréstimo, devolução e estatísticas](Emprestimo%20livros%201.png)
 
 ## 4.4. Testes de Registo e Organização do Projecto
 
@@ -181,7 +181,7 @@ testes, confirmando a organização dos ficheiros-fonte (.java), dos
 ficheiros compilados (.class), da documentação (README.md e
 Documentacao_Tecnica.md) e o registo de um novo livro no sistema:
 
-![Estrutura do projecto e registo de livro](capturas/Registros_de_Livro_Test.png)
+![Estrutura do projecto e registo de livro](Registros%20de%20Livro%20Test.png)
 
 # 5. Conclusão
 
