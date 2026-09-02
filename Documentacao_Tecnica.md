@@ -211,3 +211,6 @@ com o desenvolvimento de uma interface gráfica.
 UnISCED. (s.d.). *Manual do Curso de Licenciatura em Engenharia
 Informática: Introdução a Algoritmo e Programação*. Universidade Aberta
 ISCED.
+
+**Repositório do projecto:** https://github.com/joaocumbane/BibliotecaMunicipal
+
