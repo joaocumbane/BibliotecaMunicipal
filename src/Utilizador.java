@@ -22,3 +22,5 @@ public class Utilizador {
         return contacto;
     }
 }
+
+Move Utilizador.java para pasta src
